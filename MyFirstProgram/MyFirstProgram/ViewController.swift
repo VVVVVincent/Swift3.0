@@ -15,8 +15,8 @@ class ViewController: UIViewController {
         //swift中结尾的";"可省略，但是当有多段代码在一行时，不能省略
 
         //var用来声明一个变量
-        var myString1 = "1"
-        myString1 = "hello"
+        var myString1 = "1";
+        myString1 = "hello";
         print(myString1)
 
         //let用来声明一个常量
