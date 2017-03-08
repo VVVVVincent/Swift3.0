@@ -30,8 +30,8 @@ class ViewController: UIViewController {
         /*
          3.分号:与其它语言不同的是，swift不要求在每行代码的结尾使用分号";"，但是当在同一行书写多条代码时，必须用分号隔开
          */
-        var myString = "hello"
-        myString = "hello world";print(myString)
+        var myString = "hello";
+        myString = "hello world";print(myString);
 
 
         /*
